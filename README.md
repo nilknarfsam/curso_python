@@ -94,8 +94,8 @@ curso_python/
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/nilknarfsam/curso_pyhton.git
-cd curso_pyhton
+git clone https://github.com/nilknarfsam/curso_python.git
+cd curso_python
 ```
 
 ### 2. Criar e ativar o ambiente virtual (venv)
